@@ -1,10 +1,10 @@
 ## Find Treasure inside CASTLE
 
-This is "Find Treasure inside CASTLE" game. Here, I used conditionals such as `if`, `else`, and `elif` statements to lay out the logic and the story's path in the program. 
+=> This is "Find Treasure inside CASTLE" game. Here, I used conditionals such as `if`, `else`, and `elif` statements to lay out the logic and the story's path in the program. 
  
-Also I used `input` statement to take inputs from users also I used `f-string` to mention Player name inside some of the Commands.
+=> Also I used `input` statement to take inputs from users also I used `f-string` to mention Player name inside some of the Commands.
 
-This Game is developed by using python only.
+=> This Game is developed by using python only.
 
 ### Story Line of the GAME
 
